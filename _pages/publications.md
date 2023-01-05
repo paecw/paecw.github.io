@@ -37,3 +37,10 @@ Scholar](https://scholar.google.com/citations?user=jFOelnYAAAAJ&hl=en).
 - SO Jeong, **C Pae**, HJ Park, Connectivity-based change point detection for large-size functional networks. _Neuroimage_. 2016. 143, 353-363
 - C Jang, HJ Park, WS Chang, **C Pae**, JW Chang, Immediate and longitudinal alterations of functional networks after thalamotomy in essential tremor. _Frontiers in neurology_. 2016. 7, 184
 - **C Pae**, HJ Park, DJ Kim, Head Motion Detection and Alarm System during MRI scanning. _Journal of the Korean Society of Magnetic Resonance in Medicine_. 2012. 16 (1), 55-66
+
+
+
+## Patents
+- 의료 영상에 기반하여 목적 부위에 대한 질환을 결정하기 위한 장치 및 방법, 10-2021-0046573
+- 빛 간섭 단층 촬영 영상에서의 시세포 층 정량화 검출 장치 및 그 방법, KR 10-1667279
+- 안구 단층 촬영 영상에서의 시세포 층 정량화 검출 장치 및 그 방법, KR 10-1683573
