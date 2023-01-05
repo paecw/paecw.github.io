@@ -9,10 +9,12 @@ redirect_from:
 
 {% include base_path %}
 
+
 Education
 ======
 * B.S. in Engineering, Yonsei University, 2010
 * Ph.D in Neuroimaging/Neuroscience, Yonsei University, 2019
+
 
 Work experience
 ======
@@ -23,6 +25,7 @@ Work experience
 * Research Assistant / Graduate Student Researcher, MoNET Lab, Dept. of Nuclear Medicine, Yonsei University College of Medicine, 2009-2019
 * Teaching Assistant, Dept of Radiology and Nuclear Medicine, Yonsei University College of Medicine, 2011-2021
   
+
 Research Experience
 ======
 * Development of the neuroimaging biomarker-based prediction model of anxiety-related disorders and novel treatment strategies
@@ -35,6 +38,7 @@ Research Experience
 * Brain state decoding as an appropriate application for Legal Psychology by means of neuroimaging
 * Neural modeling of the human intention and development of application methods for real-time intention reading
 * Optical Coherence Tomography Segmentation and Quantification
+
 
 Development Experiences
 ======
@@ -49,16 +53,13 @@ Development Experiences
 * NodeJS-based image/video uploading and management programming
 * COGOCT (+Software copyright)
   * Application for automatic layer segmentation and diagnosis assistant of retinal optical coherence tomography (OCT) images
+\
   
 Computing Skills
 ======
 C, C++, Python (Pytorch, Tensorflow, and fastai), R, Matlab, HTML, CSS, Shellscript
   
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+    
   
 Other Activities
 ======
