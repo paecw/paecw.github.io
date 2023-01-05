@@ -53,7 +53,7 @@ Development Experiences
 * NodeJS-based image/video uploading and management programming
 * COGOCT (+Software copyright)
   * Application for automatic layer segmentation and diagnosis assistant of retinal optical coherence tomography (OCT) images
-\
+
   
 Computing Skills
 ======
