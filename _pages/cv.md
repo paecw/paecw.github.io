@@ -54,6 +54,15 @@ Development Experiences
 * COGOCT (+Software copyright)
   * Application for automatic layer segmentation and diagnosis assistant of retinal optical coherence tomography (OCT) images
 
+
+Invited Talks
+======
+* "Statistical Parametric Mapping (SPM) for Voxel-Based Morphometry & PET analysis: Principles", Korean Society for Human Brain Mapping: OHBM Korea Chapter Program Winter School, Hongcheon, South Korea, Feb 2023
+* "Statistical Parametric Mapping (SPM) for Voxel-Based Morphometry & PET analysis: Practices", Korean Society for Human Brain Mapping: OHBM Korea Chapter Program Winter School, Hongcheon, South Korea, Feb 2023
+* "Multimodal neuroimaging-based treatment effect and prognostic study in clinical dimension", Dept of Nuclear Medicine, Yonsei University College of Medicine, Seoul, South Korea, Jan 2023
+* "Principles of human brain functional connectivity and practice", Dept of Nuclear Medicine, Yonsei University College of Medicine, Seoul, South Korea, Sep 2022
+* "Principles and Applications of functional Magnetic Resonance Imaging", Dept of Neurosurgery, Korea University College of Medicine, Seoul, South Korea, Oct 2021
+  
   
 Computing Skills
 ======
