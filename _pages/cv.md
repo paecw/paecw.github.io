@@ -63,6 +63,9 @@ Invited Talks
 * "Principles of human brain functional connectivity and practice", Dept of Nuclear Medicine, Yonsei University College of Medicine, Seoul, South Korea, Sep 2022
 * "Principles and Applications of functional Magnetic Resonance Imaging", Dept of Neurosurgery, Korea University College of Medicine, Seoul, South Korea, Oct 2021
   
+Grants
+======
+Development of panic disorder disease prediction model and precision medical technology using graph neural network, National Research Foundation (NRF), 2023-2026
   
 Computing Skills
 ======
