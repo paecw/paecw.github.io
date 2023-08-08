@@ -13,8 +13,10 @@ Scholar](https://scholar.google.com/citations?user=jFOelnYAAAAJ&hl=en).
 †: equally contributed authors \
 *: correspondance \
 #: cover page 
- 
-- HJ Kim, SH Lee, **C Pae<sup>*</sup>**, Gender Differences in Anxiety and Depressive Symptomatology Determined by Network Analysis in Panic Disorder. _Journal of Affective Disorders_. 2023. Accepted.
+
+- YG Hwang<sup>†</sup>, **C Pae<sup>†</sup>**, CR Song, HJ Kim, M Bang, CI Park, TK Choi, MK Kim, SH Lee, Self-compassion is associated with the superior longitudinal fasciculus in the mirroring network in healthy individuals. _Scientific Reports_. 2023. 13 (1), 12264
+- YG Hwang, **C Pae**, SH Lee, KH Yook, CI Park, Relationship between Mediterranean diet and depression in South Korea: the Korea National Health and Nutrition Examination Survey. _Frontiers in Nutrition_. 2023. 10: 1219743
+- HJ Kim, SH Lee, **C Pae<sup>*</sup>**, Gender Differences in Anxiety and Depressive Symptomatology Determined by Network Analysis in Panic Disorder. _Journal of Affective Disorders_. 2023. 337: 94-103.
 - HJ Kim, HY Jung, M Bang, **C Pae<sup>*</sup>**, SH Lee<sup>*</sup>, Poor Treatment Response in Panic Disorder Patients with Suicide Attempts and Their Symptom Network Characteristics. _Depression and Anxiety_. 2023. 5194900 
 - HJ Kim, M Bang, CI Park, **C Pae<sup>*</sup>**, SH Lee<sup>*</sup>, Differences in Functional Level and Central Symptom of Network Structures in the Patients Seeking Treatment for Panic Disorder Before and During the COVID-19 Pandemic. _Psychiatry Investigation_. 2023. 20 (3), 245
 - **C Pae**, HJ Kim, M Bang, SH Lee, Prediction of prognosis in patients with panic disorder using pre-treatment brain white matter features. _Journal of Affective Disorders_. 2022. 313: 214-221
