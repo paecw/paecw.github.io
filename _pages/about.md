@@ -13,7 +13,7 @@ I finished my Ph.D. in neuroimaging/neuroscience at Yonsei University College of
 
 ## Research Interests
 - Computational / Systems Neuroscience
-- Computational Psychiatry
+- Big Biomedical Informatics
 - Neuroimaging
 - Machine Learning for Precision Medicine
 - Network Science
