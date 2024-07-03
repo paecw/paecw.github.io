@@ -14,7 +14,7 @@ Scholar](https://scholar.google.com/citations?user=jFOelnYAAAAJ&hl=en).
 *: correspondance \
 #: cover page 
 
-- **C Pae<sup>†</sup>**, HJ Kim<sup>†</sup>, M Bang, CI Park, SH Lee<sup>*</sup>, Predicting treatment outcomes in patients with panic disorder: Cross-sectional and two-year longitudinal structural connectome analysis using machine learning methods. _Journal of Anxiety Disorders. 2024. Accepted.
+- **C Pae<sup>†</sup>**, HJ Kim<sup>†</sup>, M Bang, CI Park, SH Lee<sup>*</sup>, Predicting treatment outcomes in patients with panic disorder: Cross-sectional and two-year longitudinal structural connectome analysis using machine learning methods. _Journal of Anxiety Disorders_. 2024. Accepted.
 - HJ Kim, M Bang, **C Pae<sup>*</sup>**, SH Lee<sup>*</sup>, Multimodal neural correlates of dispositional resilience among healthy individuals. _Scientific Reports_. 2024. 14 (1), 9875
 - YG Hwang<sup>†</sup>, **C Pae<sup>†</sup>**, CR Song, HJ Kim, M Bang, CI Park, TK Choi, MK Kim, SH Lee, Self-compassion is associated with the superior longitudinal fasciculus in the mirroring network in healthy individuals. _Scientific Reports_. 2023. 13 (1), 12264
 - YG Hwang, **C Pae**, SH Lee, KH Yook, CI Park, Relationship between Mediterranean diet and depression in South Korea: the Korea National Health and Nutrition Examination Survey. _Frontiers in Nutrition_. 2023. 10: 1219743
